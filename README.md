@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Juan David Villalba 👋
 
-<!--
-**juanvillalba05/juanvillalba05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Maestría en Inteligencia Artificial con experiencia
+práctica en machine learning supervisado, no supervisado y NLP.
 
-Here are some ideas to get you started:
+## Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Color Palette Generator](https://github.com/juanvillalba05/unsupervised-palette-generator)
+  — Extracción de paletas de color de obras de arte con K-Means y t-SNE
+- [NLP Classifier for UN SDGs](https://github.com/juanvillalba05/nlp-ods-classifier)
+  — Clasificación de textos según los 17 ODS de la ONU con TF-IDF y Regresión Logística
+- [Hospital Mortality Prediction](https://github.com/juanvillalba05/hospital-mortality-prediction)
+  — Predicción de mortalidad hospitalaria con ROC-AUC de 0.94
+
+## Formación en curso
+
+MSc. Inteligencia Artificial — actualmente cursando:
+Deep Learning · Aprendizaje por Refuerzo
+
+## Tecnologías
+
+Python · scikit-learn · NLP · pandas · Matplotlib · Streamlit · Jupyter
+
+## Contacto
+
+📧 juandavid.villalba99@hotmail.com
